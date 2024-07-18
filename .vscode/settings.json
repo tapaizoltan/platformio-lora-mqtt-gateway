@@ -1,0 +1,14 @@
+{
+    "cmake.options.statusBarVisibility": "compact",
+    "vsmqtt.brokerProfiles": [
+        {
+            "name": "localhost.docker.auth",
+            "protocol":"mqtt",
+            "host": "localhost",
+            "port": 1883,
+            "clientId": "vsmqtt_client_9046",
+            "username":"mqttuser",
+            "password":"password",
+        }
+    ]
+}
